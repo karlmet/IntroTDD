@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCopieur", "ConsoleCopieur\ConsoleCopieur.csproj", "{E25363D8-0487-4F58-8D0F-BEB32CF0B5B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaractereCopieur", "CaractereCopieur\CaractereCopieur.csproj", "{5D9AA9D5-0015-4617-BDD0-249B28999600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaractereCopieur.Tests", "CaractereCopieur.Tests\CaractereCopieur.Tests.csproj", "{628434B9-B4E9-46FB-A50E-D0382C28E2A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E25363D8-0487-4F58-8D0F-BEB32CF0B5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25363D8-0487-4F58-8D0F-BEB32CF0B5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25363D8-0487-4F58-8D0F-BEB32CF0B5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25363D8-0487-4F58-8D0F-BEB32CF0B5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D9AA9D5-0015-4617-BDD0-249B28999600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9AA9D5-0015-4617-BDD0-249B28999600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9AA9D5-0015-4617-BDD0-249B28999600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9AA9D5-0015-4617-BDD0-249B28999600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628434B9-B4E9-46FB-A50E-D0382C28E2A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628434B9-B4E9-46FB-A50E-D0382C28E2A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628434B9-B4E9-46FB-A50E-D0382C28E2A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628434B9-B4E9-46FB-A50E-D0382C28E2A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CaractereCopieur.Copieur">
+    <Position X="5.5" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAQAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Copieur.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="aSource" />
+      <Field Name="aDestination" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="CaractereCopieur.Interfaces.IDestination">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IDestination.vb</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CaractereCopieur.Interfaces.ISource">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ISource.vb</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
